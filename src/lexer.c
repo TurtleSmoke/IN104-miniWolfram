@@ -32,6 +32,9 @@ TokenQueue Lex(char *input) {
         while (*input == ' ') {
             input++;
         }
+        if (*input == '\0') {
+            break;
+        }
         Token token = getToken(&input);
         AppendTokenQueue(&token_array, token);
     }

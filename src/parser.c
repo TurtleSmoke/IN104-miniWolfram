@@ -21,8 +21,8 @@ TokenQueue Parse(TokenQueue *tokens) {
                 AppendTokenQueue(&output, PopTokenStack(&stack));
             }
             if (IsEmptyTokenStack(&stack)) {
-                fprintf(stderr, "Mismatched parentheses\n");
-                exit(1);
+                fprintf(stderr, "Mismatched parentheses, too many right parentheses\n");
+                exit(2);
             }
             PopTokenStack(&stack);
         } else {
@@ -38,7 +38,7 @@ TokenQueue Parse(TokenQueue *tokens) {
     while (!IsEmptyTokenStack(&stack)) {
         if (PeekTokenStack(&stack).type == LEFT_PAREN) {
             fprintf(stderr, "Mismatched parentheses\n");
-            exit(1);
+            exit(2);
         }
         AppendTokenQueue(&output, PopTokenStack(&stack));
     }

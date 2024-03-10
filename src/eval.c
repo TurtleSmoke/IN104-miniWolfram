@@ -4,8 +4,9 @@
 #include <stdlib.h>
 
 int EvalRecursive(TokenQueue* tq, int* index) {
-    if (*index == tq->length) {
-        return 0;
+    if (*index >= tq->length) {
+        fprintf(stderr, "Invalid expression, missing operand\n");
+        exit(2);
     }
 
     Token token = tq->tokens[(*index)++];
@@ -27,18 +28,18 @@ int EvalRecursive(TokenQueue* tq, int* index) {
         case DIV:
             if (right == 0) {
                 fprintf(stderr, "Division by zero\n");
-                exit(1);
+                exit(3);
             }
             return left / right;
         case MOD:
             if (right == 0) {
                 fprintf(stderr, "Division by zero\n");
-                exit(1);
+                exit(3);
             }
             return left % right;
         default:
             fprintf(stderr, "Invalid token type\n");
-            exit(1);
+            exit(3);
     }
 }
 
