@@ -137,11 +137,15 @@ PushTokenStack(&stack, token1);
 PushTokenStack(&stack, token2);
 PushTokenStack(&stack, token3);
 PrintTokenStack(&stack);
-// 42+24
+// 24+42
 
-Token token = PopTokenStack(&stack);
+Token token4 = PeekTokenStack(&stack);
+printf("Peek: %d\n", token4.value);
+// Peek: 24
+
+Token token5 = PopTokenStack(&stack);
 PrintTokenStack(&stack);
-// 42+
+// +42
 
 printf("Is empty: %d\n", IsEmptyTokenStack(&stack));
 // Is empty: 0
