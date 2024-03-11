@@ -112,7 +112,7 @@ void PrintTokenStack(TokenStack *stack) {
     const char *TokenTypeStrings[] = {
         "NUMBER", "+", "-", "*", "/", "%", "(", ")",
     };
-    for (int i = 0; i < stack->length; i++) {
+    for (int i = stack->length - 1; i >= 0; i--) {
         Token token = stack->tokens[i];
         if (token.type == NUMBER) {
             printf("%d", token.value);
