@@ -13,7 +13,7 @@ Here are some additional resources that you may find useful for this project:
 - Test-Driven Development
     - [What is test-driven development (TDD)?](https://www.youtube.com/watch?v=QCif_-r8eK4)
     - [Test Driven Development](https://martinfowler.com/bliki/TestDrivenDevelopment.html)
-    - [Unit testing](https://github.com/Snaipe/Criterion)
-    - [Better Unit Testing](https://github.com/google/googletest)
+    - [Unit Testing Framework](https://github.com/Snaipe/Criterion)
+    - [Better Unit Testing Framework](https://github.com/google/googletest)
 - [Formatting your code](https://www.electronjs.org/docs/latest/development/clang-format)
 - [Pre-commit hooks](https://pre-commit.com/)
