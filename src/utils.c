@@ -93,12 +93,27 @@ void ReverseTokenQueue(TokenQueue *array) {
     }
 }
 
-void PrintTokenArray(TokenQueue *tokens) {
+void PrintTokenQueue(TokenQueue *tokens) {
     const char *TokenTypeStrings[] = {
         "NUMBER", "+", "-", "*", "/", "%", "(", ")",
     };
     for (int i = 0; i < tokens->length; i++) {
         Token token = tokens->tokens[i];
+        if (token.type == NUMBER) {
+            printf("%d", token.value);
+        } else {
+            printf("%s", TokenTypeStrings[token.type]);
+        }
+    }
+    printf("\n");
+}
+
+void PrintTokenStack(TokenStack *stack) {
+    const char *TokenTypeStrings[] = {
+        "NUMBER", "+", "-", "*", "/", "%", "(", ")",
+    };
+    for (int i = 0; i < stack->length; i++) {
+        Token token = stack->tokens[i];
         if (token.type == NUMBER) {
             printf("%d", token.value);
         } else {
