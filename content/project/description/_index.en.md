@@ -40,8 +40,7 @@ Here are examples illustrating the expected behavior of the program:
 
 {{% notice note %}}
 The provided code includes helpful functions to help you get started. Please refer to [this link](project/given-code)
-for
-more details.
+for more details.
 {{% /notice %}}
 
 ## Project guidelines
@@ -118,4 +117,4 @@ Here are a few examples of additional features, but you are invited to come up w
 
 As a picture is worth a thousand words, here is an overview of the input and output of each step of the project:
 
-![Project overview](/img/overview.png?width=100%^&height=100%)
+![Project overview](overview.png?width=100%^&height=100%)

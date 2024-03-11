@@ -28,6 +28,12 @@ code quality (not an exhaustive list, but a good start):
 - Indentation and formatting should be consistent and ideally follow the language's best practices.
 - Organize your code in a logical and modular manner.
 - Remove dead code and unused variables to keep the codebase clean.
+- Add a `.gitignore` file to avoid pushing unnecessary files to the repository.
+- Keep only the necessary files in the GitHub repository (e.g., no `.o` files, no executables, etc.).
+
+{{% notice warning %}}
+Obviously, your code **must** compile and run without errors!
+{{% /notice %}}
 
 Moreover, it's important to properly "wrap" your code, which includes (but is not limited to) the following:
 

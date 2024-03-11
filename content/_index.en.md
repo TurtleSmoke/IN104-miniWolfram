@@ -3,7 +3,7 @@ archetype = "home"
 title = "IN104 - MiniWolfram"
 +++
 
-![Image of Wolfram Alpha](/img/wolfram-alpha.svg?width=100%^&height=100%)
+![Image of Wolfram Alpha](wolfram-alpha.svg?width=100%^&height=100%)
 
 ## Overview
 
