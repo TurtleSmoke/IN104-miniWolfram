@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f6fdaec7-a32c-418c-b03f-1135666f015f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/hugo.yml" beforeDir="false" afterPath="$PROJECT_DIR$/hugo.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/project/additional-resources/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/project/additional-resources/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/project/additional-resources/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/project/additional-resources/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/project/description/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/project/description/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/project/description/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/project/description/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/project/first-step/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/project/first-step/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/project/first-step/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/project/first-step/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/project/given-code/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/project/given-code/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/project/given-code/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/project/given-code/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/project/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/project/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/project/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/submission/evaluation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/submission/evaluation/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/submission/evaluation/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/submission/evaluation/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/submission/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/submission/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/submission/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/submission/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/submission/submission/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/submission/submission/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/submission/submission/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/submission/submission/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HugoPluginSettings">
+    <option name="customHugoPath" value="\\wsl$\Ubuntu\snap\bin\hugo" />
+    <option name="defaultHugoNewOptions" value="" />
+    <option name="useCustomPath" value="true" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2dVVP2wA7E4q3fWxdX6G8D24zC0" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "true",
+    "last_opened_file_path": "//wsl$/Ubuntu/home/turtlesmoke/project/self/IN104/content/project/additional-resources",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "hugo.plugin.settings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="\\wsl$\Ubuntu\home\turtlesmoke\project\self\IN104\content\project\additional-resources" />
+      <recent name="\\wsl$\Ubuntu\home\turtlesmoke\project\self\IN104\content\submission" />
+      <recent name="\\wsl$\Ubuntu\home\turtlesmoke\project\self\IN104\content\submission\guidelines" />
+      <recent name="\\wsl$\Ubuntu\home\turtlesmoke\project\self\IN104\static\img" />
+      <recent name="\\wsl$\Ubuntu\home\turtlesmoke\project\self\IN104\content\project\given-code" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="\\wsl$\Ubuntu\home\turtlesmoke\project\self\IN104\static\img" />
+      <recent name="\\wsl$\Ubuntu\home\turtlesmoke\project\self\IN104\static" />
+      <recent name="\\wsl$\Ubuntu\home\turtlesmoke\project\self\IN104\content" />
+      <recent name="\\wsl$\Ubuntu\home\turtlesmoke\project\self\IN104\content\submission" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="IN104" type="HUGO_RUN_CONFIGURATION" factoryName="Hugo configuration factory">
+      <option name="hugo.plugin.arguments" value="" />
+      <option name="hugo.plugin.run.server" value="run" />
+      <option name="hugo.plugin.custom.project.dir" value="\\wsl$\Ubuntu\home\turtlesmoke\project\self\IN104" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6fdaec7-a32c-418c-b03f-1135666f015f" name="Changes" comment="" />
+      <created>1710093205488</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710093205488</updated>
+      <workItem from="1710093208009" duration="7264000" />
+      <workItem from="1710157086340" duration="12822000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
