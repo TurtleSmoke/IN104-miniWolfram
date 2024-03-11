@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Evaluation on IN104 - MiniWolfram</title>
-    <link>http://localhost:1313/submission/evaluation/index.html</link>
+    <link>http://localhost:1313/IN104/submission/evaluation/index.html</link>
     <description>Recent content in Evaluation on IN104 - MiniWolfram</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/submission/evaluation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/IN104/submission/evaluation/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

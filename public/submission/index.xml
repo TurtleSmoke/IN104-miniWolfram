@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Evaluation on IN104 - MiniWolfram</title>
-    <link>http://localhost:1313/submission/index.html</link>
+    <link>http://localhost:1313/IN104/submission/index.html</link>
     <description>Recent content in Evaluation on IN104 - MiniWolfram</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/submission/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/IN104/submission/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Evaluation</title>
-      <link>http://localhost:1313/submission/evaluation/index.html</link>
+      <link>http://localhost:1313/IN104/submission/evaluation/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/submission/evaluation/index.html</guid>
+      <guid>http://localhost:1313/IN104/submission/evaluation/index.html</guid>
       <description>The assessment of the project will depend on both the quality of the code and the accompanying report.
 Report Your report should comprehensively cover all aspects of your project. Explain and justify the choices you made throughout the project, including architecture, algorithms, data structures, and any other pertinent areas. Detail the challenges you encountered and how you resolved them. It&amp;rsquo;s crucial to be explicit about each specific feature you implemented. If I do not see the feature in the report, I may not play with your code properly, and you may not get the points you deserve.</description>
     </item>
     <item>
       <title>Submission</title>
-      <link>http://localhost:1313/submission/submission/index.html</link>
+      <link>http://localhost:1313/IN104/submission/submission/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/submission/submission/index.html</guid>
+      <guid>http://localhost:1313/IN104/submission/submission/index.html</guid>
       <description>Well done! You have completed the project. Now, it&amp;rsquo;s time to submit your work.
 Submission We request you to submit your source code and a report. Please include the report as a PDF file directly in the root directory of your repository.
 Once ready, please email me at william.grolleau@cea.fr with the subject : [IN104] Project submission - &amp;lt;name1&amp;gt; &amp;lt;name2&amp;gt; and provide the link to your repository in the body of the email.</description>

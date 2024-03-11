@@ -1,4 +1,4 @@
-baseURL: https://example.org/
+baseURL: https://turtlesmoke.github.io/IN104/
 languageCode: en-us
 title: "IN104 - MiniWolfram"
 theme: hugo-theme-relearn

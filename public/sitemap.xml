@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/project/index.html</loc>
+    <loc>http://localhost:1313/IN104/project/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/submission/index.html</loc>
+    <loc>http://localhost:1313/IN104/submission/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/submission/evaluation/index.html</loc>
+    <loc>http://localhost:1313/IN104/submission/evaluation/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/project/first-step/index.html</loc>
+    <loc>http://localhost:1313/IN104/project/first-step/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/project/description/index.html</loc>
+    <loc>http://localhost:1313/IN104/project/description/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/submission/submission/index.html</loc>
+    <loc>http://localhost:1313/IN104/submission/submission/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/project/given-code/index.html</loc>
+    <loc>http://localhost:1313/IN104/project/given-code/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/project/additional-resources/index.html</loc>
+    <loc>http://localhost:1313/IN104/project/additional-resources/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/categories/index.html</loc>
+    <loc>http://localhost:1313/IN104/categories/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/index.html</loc>
+    <loc>http://localhost:1313/IN104/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/index.html</loc>
+    <loc>http://localhost:1313/IN104/tags/index.html</loc>
   </url>
 </urlset>
