@@ -1,5 +1,6 @@
 +++
 archetype = "chapter"
+pre = "<b>1. </b>"
 title = "Project"
 weight = 1
 +++

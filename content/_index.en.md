@@ -7,9 +7,10 @@ title = "IN104 - MiniWolfram"
 
 ## Overview
 
-This website hosts the IN104 course project MiniWolfram, which is a simplified version of the Wolfram Alpha
-engine. Your task involves developing a calculator capable of executing fundamental operations like
-addition, subtraction, multiplication, etc.
+This website hosts the project `IN104 MiniWolfram`, which is a simplified version of the Wolfram Alpha
+engine. WolframAlpha is an engine that provides answers to queries and performs computations.
+Your task involves developing a calculator capable of executing fundamental operations like addition, subtraction,
+multiplication, etc.
 
 Once these core functions are operational, you are encouraged to enhance the calculator by integrating additional
 features of your choice.

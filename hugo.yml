@@ -1,4 +1,60 @@
 baseURL: https://turtlesmoke.github.io/IN104/
 languageCode: en-us
-title: "IN104 - MiniWolfram"
 theme: hugo-theme-relearn
+
+params:
+  themeVariant:
+    - relearn-light
+    - relearn-dark
+
+outputs:
+  home:
+    - html
+    - rss
+    - print
+    - search
+    - searchpage
+  section:
+    - html
+    - rss
+    - print
+  page:
+    - html
+    - rss
+    - print
+
+markup:
+  highlight:
+    lineNumbersInTable: false
+    noClasses: false
+  goldmark:
+    duplicateResourceFiles: true
+    renderer:
+      unsafe: true
+
+defaultContentLanguage: en
+languages:
+  en:
+    languageName: English
+    title: "IN104 - MiniWolfram"
+    weight: 1
+    params:
+      landingPageName: <i class='fa-fw fas fa-home'></i> Home
+    menu:
+      shortcuts:
+        - name: <i class='fa-fw fab fa-github'></i> GitHub repository
+          identifier: ds
+          url: https://github.com/TurtleSmoke/IN104
+          weight: 10
+  fr:
+    languageName: Français
+    title: "IN104 - MiniWolfram"
+    weight: 2
+    params:
+      landingPageName: <i class='fa-fw fas fa-home'></i> Accueil
+    menu:
+      shortcuts:
+        - name: <i class='fa-fw fab fa-github'></i> Dépôt GitHub
+          url: https://github.com/TurtleSmoke/IN104
+          weight: 10
+

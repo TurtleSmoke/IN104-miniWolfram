@@ -1,5 +1,6 @@
 +++
 title = "First step"
+pre = "<b>1. </b>"
 weight = 5
 +++
 
@@ -30,7 +31,7 @@ You **must** create a **private** repository!
 
 ## Adding me as a collaborator
 
-Finally, you will need to add both me and Mai as collaborators to your repository. To do this, navigate to the settings
+Finally, you will need to add both me and Professor Nguyen as collaborators to your repository. To do this, navigate to the settings
 of your repository and locate the "Collaborators" section. From there, click on "Add people" and enter the following
 usernames:
 

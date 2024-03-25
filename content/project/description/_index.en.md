@@ -1,5 +1,6 @@
 +++
 title = "Description"
+pre = "<b>2. </b>"
 weight = 10
 +++
 
@@ -30,10 +31,13 @@ Here are examples illustrating the expected behavior of the program:
 ```shell
 ./miniWolfram "1 + 1"
 2
+
 ./miniWolfram "1 + 2 * 3"
 7
+
 ./miniWolfram "(1 + 2) * 3"
 9
+
 ./miniWolfram "1       + 1"
 2
 ```
@@ -59,18 +63,18 @@ The lexical analysis is the first step of the project. It converts the input str
 each token represents a single element of the input string, such as a number, an operator, or a parenthesis. This step
 also includes the detection of invalid tokens such as letters or special characters.
 
-The lexer is very helpful because manipulating strings directly is error-prone and can lead to many bugs. By using a
-lexer, you will be able to focus on the syntax and the evaluation of the expression without worrying about the lexical
-correctness of the input.
+The program that performs lexical analysis is called a lexer. By using a lexer, you will be able to focus on the syntax
+and the evaluation of the expression without worrying about the lexical correctness of the input.
 
 ### Syntax analysis
 
-The syntax analysis is the second step of the project. It converts a sequence of tokens into a Reverse Polish Notation (
-RPN) expression. This process also includes the detection of invalid expressions such as missing operators or operands.
+The syntax analysis is the second step of the project. It converts a sequence of tokens into a Reverse Polish Notation
+(RPN) expression. This process also includes the detection of invalid expressions such as missing operators or operands.
 
 The [Reverse Polish Notation](https://en.wikipedia.org/wiki/Reverse_Polish_notation) is a mathematical notation in which
-every operator follows all of its operands, it removes the ambiguity of the infix notation. It makes the evaluation of
-the expression easier and removes the need for parentheses.
+every operator follows all of its operands, it removes the ambiguity of operation priority in the commonly used
+notation (called infix notation). It makes the evaluation of the expression easier and removes the need for parentheses.
+For example, the expression `1 + 2 * 3` is represented by the following RPN expression: `1 2 3 * +`.
 
 You are free to use any algorithm to convert the infix expression into RPN, but you are advised to use the
 [Shunting-yard algorithm](https://en.wikipedia.org/wiki/Shunting-yard_algorithm), as the pseudocode is provided in the
@@ -80,8 +84,7 @@ Wikipedia page and can be easily adapted to your needs.
 
 The evaluation is the last step of the project. It consists of evaluating the RPN expression resulting from the syntax
 analysis. The RPN expression can be visualized as a binary tree, where the leaves are the numbers and the internal nodes
-are the operators. For example, the expression `1 + 2 * 3` is represented by the following RPN expression: `1 2 3 * +`.
-This RPN expression corresponds to the following binary tree:
+are the operators. Using the previous RPN expression as an example, we get the following binary tree:
 
 {{< mermaid >}}
 graph TD
