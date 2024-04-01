@@ -1,7 +1,7 @@
 +++
 title = "First step"
-pre = "<b>1. </b>"
-weight = 5
+pre = "<b>2. </b>"
+weight = 10
 +++
 
 ## Download the project files

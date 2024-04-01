@@ -14,7 +14,7 @@ calculatrice capable d'exécuter des opérations basiques telles que l'addition,
 Une fois que ces fonctions de base sont opérationnelles, vous êtes encouragé à améliorer la calculatrice en intégrant
 des fonctionnalités supplémentaires de votre choix.
 
-Pour commencer, lisez les [premiers pas](project/first-step) et les [directives du projet](/project/description).
+Pour commencer, lisez les [premiers pas](must_known/first-step) et les [directives du projet](/project/description).
 
 ## License
 

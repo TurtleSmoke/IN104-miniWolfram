@@ -15,7 +15,7 @@ multiplication, etc.
 Once these core functions are operational, you are encouraged to enhance the calculator by integrating additional
 features of your choice.
 
-To get started, read the [first step](project/first-step) and the [project guidelines](/project/description).
+To get started, read the [first step](must_known/first-step) and the [project guidelines](/project/description).
 
 ## License
 

@@ -1,7 +1,7 @@
 +++
 title = "Premiers pas"
-pre = "<b>1. </b>"
-weight = 5
+pre = "<b>2. </b>"
+weight = 10
 +++
 
 ## Télécharger les fichiers du projet
