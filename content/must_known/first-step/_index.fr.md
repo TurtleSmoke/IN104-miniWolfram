@@ -7,10 +7,10 @@ weight = 10
 ## Télécharger les fichiers du projet
 
 Vous pouvez télécharger les fichiers fournis directement depuis
-le [dépôt GitHub](https://github.com/TurtleSmoke/IN104.git) en utilisant la commande suivante :
+le [dépôt GitHub](https://github.com/TurtleSmoke/IN104-miniWolfram.git) en utilisant la commande suivante :
 
 ```bash
-git clone https://github.com/TurtleSmoke/IN104.git
+git clone https://github.com/TurtleSmoke/IN104-miniWolfram.git
 ```
 
 ## Créer un nouveau dépôt

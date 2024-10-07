@@ -6,11 +6,11 @@ weight = 10
 
 ## Download the project files
 
-You can download the provided files directly from the [GitHub repository](https://github.com/TurtleSmoke/IN104.git) by
+You can download the provided files directly from the [GitHub repository](https://github.com/TurtleSmoke/IN104-miniWolfram.git) by
 using the following command:
 
 ```bash
-git clone https://github.com/TurtleSmoke/IN104.git
+git clone https://github.com/TurtleSmoke/IN104-miniWolfram.git
 ```
 
 ## Create a new repository
